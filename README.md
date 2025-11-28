@@ -1,2 +1,2 @@
 # demo-coderabbit
-THis is demo repository for coderabbit!
+This is demo repository for coderabbit!
